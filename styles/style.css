@@ -35,7 +35,6 @@ color: blue;
     display: inline-block;
 }
 
-input, label textarea{
+input, label {
     display: block;
-    margin-top: .3em;
 }
